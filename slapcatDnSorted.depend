@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1402424800 source:/home/phil/cdev/GNU/slapcatDnSorted/main.cpp
+	<libldapcppei/ldapEasyInterface.h>
+	<iostream>
+	<sstream>
+
